@@ -14,14 +14,15 @@ Summary: Local SFTP server fixture plugin for pytest
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pytest-sftpserver-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pytest-sftpserver-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pytest-sftpserver-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pytest-sftpserver-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pytest-sftpserver-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pytest-sftpserver-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pytest-sftpserver-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pytest-sftpserver-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pytest-sftpserver/badges/version.svg)](https://anaconda.org/conda-forge/pytest-sftpserver)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pytest-sftpserver/badges/downloads.svg)](https://anaconda.org/conda-forge/pytest-sftpserver)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pytest--sftpserver-green.svg)](https://anaconda.org/conda-forge/pytest-sftpserver) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pytest-sftpserver.svg)](https://anaconda.org/conda-forge/pytest-sftpserver) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pytest-sftpserver.svg)](https://anaconda.org/conda-forge/pytest-sftpserver) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pytest-sftpserver.svg)](https://anaconda.org/conda-forge/pytest-sftpserver) |
 
 Installing pytest-sftpserver
 ============================
