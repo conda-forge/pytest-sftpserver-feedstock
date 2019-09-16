@@ -1,6 +1,6 @@
 {% set name = "pytest-sftpserver" %}
-{% set version = "1.2.0" %}
-{% set sha256 = "81da1672dbc48572577a22e9dd7fde88ffbaa39f0c5bcb6563f103df6b107078" %}
+{% set version = "1.3.0" %}
+{% set sha256 = "b7ac34a23f63d77e27f67b6a81c9418243733f027eeb8a3061d965b2da7e5cab" %}
 
 package:
   name: {{ name }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
